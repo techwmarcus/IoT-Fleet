@@ -1,0 +1,8 @@
+{
+  "name": "IoT Fleet Dashboard",
+  "description": "A real-time, responsive IoT fleet tracking dashboard featuring interactive maps, metric cards, live trend charts, and alert notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
